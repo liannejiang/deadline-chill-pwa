@@ -1,0 +1,8 @@
+{
+    "name": "Deadline Chill",
+    "short_name": "D-Chill",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#a5d6a7",
+    "theme_color": "#a5d6a7"
+  }
